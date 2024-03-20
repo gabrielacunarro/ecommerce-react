@@ -89,8 +89,8 @@ function App() {
           )}
         </div>
         <div className="w-100 d-flex justify-content-center">
-          <i id="prev" className="fas fa-arrow-left btn btn-primary fs-5 m-4 mt-0"  onClick={handlePrevPage}></i>
-          <i id="next" className="fas fa-arrow-right btn btn-primary fs-5 m-4 mt-0"  onClick={handleNextPage}></i>
+          <i id="prev" className="fas fa-arrow-left btn btn-primary fs-5 m-4 mt-0" onClick={handlePrevPage}></i>
+          <i id="next" className="fas fa-arrow-right btn btn-primary fs-5 m-4 mt-0" onClick={handleNextPage}></i>
         </div>
       </main>
 
